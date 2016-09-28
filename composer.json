@@ -1,0 +1,11 @@
+{
+    "name": "maxwen/yii2-ckeditor-widget",
+    "description": "ckeditor widget for yii2 framework",
+    "authors": [
+        {
+            "name": "Max Wen",
+            "email": "max.wen@qq.com"
+        }
+    ],
+    "require": {}
+}
