@@ -1,35 +1,22 @@
 <?php
 /**
- * @copyright Copyright (c) 2013-15 2amigOS! Consulting Group LLC
- * @link http://2amigos.us
- * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
+ * Project: yii2-adminlte-rbac.
+ * User: Max.wen
+ * Date: <2016/09/29 - 14:26>
  */
 namespace maxwen\ckeditor;
 
-use yii\web\AssetBundle;
-
-/**
- * CKEditorAsset
- *
- * @author Max.wen <max.wen>
- * @link http://www.ramirezcobos.com/
- * @link http://www.2amigos.us/
- * @package maxwen\ckeditor
- */
-class CKEditorAsset extends AssetBundle
+class CKEditorAsset extends \yii\web\AssetBundle
 {
-    public $js = [
-        'ckeditor.js',
-        'adapters/jquery.js'
-    ];
-    public $depends = [
-        'yii\web\YiiAsset',
-        'yii\web\JqueryAsset'
-    ];
+	public $sourcePath = '@bower/ckeditor';
 
-    public function init()
-    {
-        $this->sourcePath = __DIR__ . '/assets/ckeditor';
-        parent::init();
-    }
+	public $js = [
+		'ckeditor.js',
+		'adapters/jquery.js'
+	];
+
+	public $depends = [
+		'yii\web\YiiAsset',
+		'yii\web\JqueryAsset'
+	];
 }

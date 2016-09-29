@@ -1,11 +1,21 @@
 {
     "name": "maxwen/yii2-ckeditor-widget",
-    "description": "ckeditor widget for yii2 framework",
+    "description": "ckeditor widget for yii2 framework, with ckfinder intergrated",
+    "type": "extension",
+    "license": "MIT",
     "authors": [
         {
             "name": "Max Wen",
             "email": "max.wen@qq.com"
         }
     ],
-    "require": {}
+	"require": {
+		"yiisoft/yii2": "~2.0.0",
+		"bower-asset/jquery-cookie":"~1.4.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"insolita\\wgadminlte\\": ""
+		}
+	}
 }
