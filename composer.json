@@ -11,7 +11,8 @@
     ],
 	"require": {
 		"yiisoft/yii2": "~2.0.0",
-		"bower-asset/jquery-cookie":"~1.4.1"
+		"bower-asset/jquery-cookie":"~1.4.1",
+		"bower-asset/ckeditor": "^4.5"
 	},
 	"autoload": {
 		"psr-4": {
