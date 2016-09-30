@@ -16,7 +16,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"insolita\\wgadminlte\\": ""
+			"maxwen\\ckeditor\\": ""
 		}
 	}
 }
