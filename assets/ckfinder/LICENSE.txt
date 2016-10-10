@@ -1,0 +1,661 @@
+CKFinder License Agreement
+Version 2.3, April 2013
+==========================
+http://cksource.com/ckfinder
+Copyright (C) 2007-2015, CKSource - Frederico Knabben. All rights reserved.
+
+This document ("Agreement") is a legal agreement between You, either an individual or a Legal Entity, 
+and CKSource – Frederico Knabben ("CKSource"), running business activity pursuant to registration by 
+the President of the Capital City of Warsaw under no. 429043, covering Your permissions to use, reproduce, 
+and distribute the Software under the License terms defined hereby.
+
+1. Definitions
+
+"Agreement Name" shall mean the name used to reference this Agreement in any context, which is 
+"CKFinder License Agreement 2.3" or "CKFinder License 2.3".
+
+"Software" or "CKFinder" shall mean the copyrighted material owned by CKSource, subject to the terms of 
+this License. The Software is publicly, uniquely, and in its entirety recognizable by the "CKFinder" name 
+("Software Name").
+
+"Software Release" or "Release" shall mean a set of files distributed by CKSource, or anyone authorized to 
+distribute it, that represents the Software. A Release is uniquely identified by the Software Name and a code. 
+Such code is generally referenced as the Software version or revision number, or a combination of both.
+
+"Release Date" shall mean the day that CKSource started distributing a Release.
+
+"Product" shall mean a single computer program or one or more websites ("Program") (i) owned by You, or 
+(ii) to which the owner grants You the permission to act in behalf of the owner for the purposes of this Agreement. 
+A Program family or a group of Programs does not constitute a Product for the scope of this Agreement. 
+A Program  that goes in competition with the Software in the marketplace does not constitute a valid Product 
+for the scope of this Agreement.
+
+"Development Server" shall mean a computer with one or more computer central processing units (CPU's) 
+that  operates for the exclusive purpose of software development or software testing.
+
+"Development Activity" shall mean the act of interacting with the Software or one of its Releases, in any number 
+of Products owned or produced by You, with the intent of installation, customization, configuration, testing, 
+documentation, or any other software development activity related to the Software.
+
+"Developer" shall mean an authorized person designated by You to perform Development Activities.
+
+"Production Website" shall mean a Product with the Software installed, which already had Development Activities 
+performed, and that has been delivered to end-users for production usage. Maintenance activities performed on 
+Production Websites, excluding software development activities related to the Software, are not considered 
+Development Activities.
+
+"Hostname" shall mean a unique name by which a website is reachable in a network. This includes, but is not 
+limited to, a website IP address. (For example, if a website is reachable by the Internet address 
+"http://www.example.com/", the Hostname is "www.example.com".)
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, 
+or are under common control of that entity. For the purposes of this definition, "control" means (i) the power, 
+direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, 
+or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+"Effective Date" means the date on which the Legal Evidence is made effective.
+
+"You" (or "Your") shall mean an individual or a Legal Entity exercising permissions granted by the License and 
+accepting this Agreement.
+
+2. Grant of License
+
+Subject to the terms of this Agreement, CKSource hereby grants You, in one of the License Models described 
+in Section 4, a non-exclusive, perpetual, irrevocable, royalty free, worldwide license ("License") to use, 
+reproduce, modify, and distribute a Software Release in a collective work assembled with the Product.
+
+You should carefully read the following terms and conditions before using, installing, copying, or distributing 
+the Software. Unless otherwise agreed in writing by CKSource, your use, installation, copying, or distribution 
+of the Software indicates your acceptance of this License.
+
+3. Scope of License
+
+All rights of any kind to the Software, which are not expressly granted in this Agreement, are entirely 
+and exclusively reserved to and by CKSource. The Software is protected by applicable national and international 
+laws and treaties.
+
+You may use, install, copy, and distribute the Software solely as provided in this Agreement. You may not rent, 
+lease, loan, sublicense, reverse engineer, decompile, disassemble, or create derivative works based on the 
+Software, in whole or in part, nor permit anyone else to do so.
+
+It is agreed that in exchange for the license set forth herein, you will pay a license fee ("License Fee"). 
+The fee value will be specified by CKSource at the moment of the purchase.
+
+4. License Models
+
+The Software may be assembled with the Product and redistributed in respect of one, and only one, of the 
+following models ("License Models") of Your choice:
+
+a) ("Basic") Assembling the Software into a Product distributed as a single website ("Site"). The Site URL ("URL") 
+   must be specified at the moment of purchase. The license will not be valid for sub-domains of the specified URL.
+   This license includes 2 Developer licenses that cover Development Activities exclusively related to the Site.
+
+b) ("Professional") Assembling the Software with a maximum of 3 websites ("Professional Sites") owned or produced by You. 
+   Sites produced by third-parties with Software produced by You are not included in this License Model.
+   This license includes 5 Developer licenses that cover Development Activities exclusively related to Professional Sites.
+
+c) ("Developer") License granting Development Activities to a single Developer Person.
+
+A valid Developer license is required for every single Developer Person. Developer licenses cannot be shared among 
+different Developer Persons. Non-Development Activities on Production Websites do not require Developer licenses.
+
+License Fee values may differ depending on the license model.
+
+5. Unlicensed Copies
+
+If You did not pay License Fee, You may use unlicensed copies of CKFinder for the exclusive purpose of demonstration.
+In this case You will be using CKFinder in "demo mode". Without derogating from the forgoing, You may not use 
+CKFinder in  "demo mode" for commercial purposes. CKFinder shall only be used for evaluation purposes and may not be
+used or disclosed for any other purposes, including, without limitation, for external distribution. You may not remove 
+the demo notices from the interface nor disable the ability to display such notices or otherwise modify CKFinder. 
+Product support, if any, is not offered for CKFinder in "demo mode".
+
+6. Agreement Acceptance
+
+This Agreement is automatically accepted by both parties as long as You are in possession of legal evidence 
+("Legal Evidence")  that the acceptance has taken place. The Legal Evidence can be represented by (i) a copy 
+of this Agreement signed by You and CKSource or (ii) a valid Certificate of License Ownership, provided by 
+CKSource and addressed to You. The Legal Evidence must precisely indicate this Agreement Name, the Software Name, 
+the License Model You have chosen, and the following restrictive information, if applicable:
+
+a) If You have chosen the Basic License Model, the Site Hostname must be indicated in the Legal Evidence. This Agreement 
+   will be valid for the Software assembled with the Site publicized under the Site Hostname only. Other Sites are
+   excluded from this Agreement as long as a Legal Evidence is not produced for each of these Sites.
+
+Legal Evidences for different combinations of License Models, Sites, and Products will not restrict each other 
+and will not interfere in the rights granted to You by each of them.
+
+Legal Evidences are not transferable to different Sites and Products.
+
+7. Limitation on Releases
+
+This agreement is valid for all Releases of the Software with Release Dates within or before the 365 days that 
+follow the Effective Date ("Upgrade Period"). CKSource has no obligation to provide you any Release that is not 
+released for general distribution to other CKSource licensees. Nothing in this Agreement shall be construed to 
+obligate CKSource to provide additional Releases to You under any circumstances.
+
+8. Support
+
+CKSource shall provide support for Developers covered by valid Developer licenses for the period of 365 days 
+following the Effective Date ("Support Period"). Support shall be limited to electronic messaging access. 
+CKSource shall keep You informed, either per CKSource readiness or by following your request, including changes 
+to it, about the rules and procedures that You must perform to enjoy support under the terms of this Agreement. 
+Support topics shall be limited to the following (each a "Support Request"):
+
+a) problem solving,
+b) bug reporting,
+c) and documentation clarification.
+
+The number of Support Requests that CKSource is entitled to accept from You is limited to 2 per month if You have 
+chosen the Basic license model, or 5 per month if You have chosen the Professional license model. 
+CKSource may refuse Support Requests that exceed these limits.
+
+CKSource is not in any way obliged to perform bug fixing or custom development activities as a result 
+of a Support Request.
+
+9. License Key
+
+Following a valid License purchase, a unique license key (the "License Key") may be provided to You, which allows 
+Software activation. The License Key is subject to the restrictions set forth in this License and may not be disclosed 
+or distributed in any way. The disclosure or distribution of the License Key shall constitute a breach of this License, 
+the effect of which shall be the automatic termination and revocation of any and all rights granted herein.
+
+10. Source Code
+
+The original source code ("Source Code") of the Software may be distributed by CKSource alongside its executable 
+version, or as an integral part of it. You may modify and compile the Source Code. The Source Code or its modified 
+version can be copied and distributed exclusively within the scope of this license, as defined in the "License Model" 
+terms of this license, as long as a valid license has been purchased for the distribution target. CKSource retains all 
+rights over the Source Code and all its modified versions. Redistributions of the Source Code and modified versions of it 
+must contain the original headers and copyright notices. Modifications to the Source Code must be explicitly and entirely 
+identified in the Source Code files. This section of the license supersedes all modification restrictions imposed by 
+other sections. You are not allowed to remove copyright notices nor make changes to the license validation code present 
+in the Source Code.
+
+11. License Fee
+
+In consideration for the License granted in this Agreement during the term of this Agreement, You agreed to 
+pay to CKSource a one time fee ("License Fee").
+
+In consideration for the Software upgrades access and support services provided during the Upgrade Period 
+and Support Period, You shall pay a yearly fee ("Annual Support and Upgrade Fee").
+
+The License Fee and the Annual Support and Upgrade Fee amount shall be specified by CKSource at the moment 
+of the purchase as a single unified price.
+
+The fees listed in this Agreement do not include taxes. If CKSource is required to pay any sales, use, property, 
+excise, value added, gross receipts, withholding or other taxes levied on the Software or support under this 
+Agreement or on Your use thereof, then such taxes shall be billed to and paid by You. This Section does not apply 
+to taxes based on CKSource net income, franchise taxes or CKSource's employer contributions and taxes.
+
+You understand that CKSource uses third-party paying agents to process selected payments. You understand that 
+until payments are not received and verified by the paying agent, this Agreement is not valid.
+
+All payments made hereunder are nonrefundable. You may not withhold or set off any amounts due under this Agreement. 
+Failure to pay any fee when due shall constitute a material breach of this Agreement. In addition, if You fail to 
+make any payments when due for support, upon written notice to You, CKSource shall cease providing support.
+
+12. Automatic Renewal
+
+You may opt to automatically extend the expiration date for both the Upgrade Period and Support Period by successive 
+cycles of 365 days (each one a "Renewal"). In such case, you agree to pay a fee for each Renewal at the beginning 
+of each cycle. The annual Renewal fee shall be informed by CKSource at the moment of the purchase and optionally 
+agreed by you.
+
+If you opted to have automatic Renewals, CKSource shall send you a payment request for the Renewal fee at any 
+moment following the first day of each Renewal period. You shall perform the full payment in 30 calendar days 
+following the payment request.
+
+Both parties can discontinue the automatic Renewals by written notification to the other party before the 
+beginning of extension cycles.
+
+13. Reservation of Rights and Ownership
+
+CKSource reserves all rights not expressly granted to You in this Agreement. The Software is protected by 
+copyright and other intellectual property laws and treaties. CKSource owns the title, copyright, and other intellectual 
+property rights in the Software. The Software is licensed, not sold. This Agreement does not grant you any rights to 
+the Software's trademarks or services.
+
+14. Termination
+
+Without prejudice to any other rights, this Agreement automatically terminates if You fail to comply with the terms 
+and conditions of this Agreement. You may terminate this Agreement at any time without cause. In case of termination, 
+in any circumstance, payments issued by You will not be reimbursed.
+
+You shall immediately discontinue distribution of Product, assembled with the Software, upon expiration or 
+termination of this Agreement.
+
+15. Warranty
+
+CKSource warrants that it has full title and ownership to the Software and has the authority to grant the 
+license hereunder. To the best of CKSource's knowledge the Software does not infringe upon the intellectual 
+property rights of any third party and that CKSource did not receive any notice regarding any alleged infringement 
+thereof.
+
+16. Disclaimer of Warranties
+
+With the exclusion of warranties explicitly mentioned in Section 15, the Software and its related material are 
+provided "AS IS" and without warranty of any kind. CKSource expressly disclaims all other warranties, expressed 
+or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+17. Exclusion of Incidental, Consequential and Certain Other Damages
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL CKSOURCE BE LIABLE FOR ANY SPECIAL, INCIDENTAL, 
+PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS 
+OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE 
+TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER 
+LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION 
+OF OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, INFORMATON, SOFTWARE, AND RELATED CONTENT THROUGH THE SOFTWARE 
+OR OTHERWISE ARISING OUT OF THE USE OF THE SOFTWARE, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS 
+AGREEMENT, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), MISREPRESENTATION, STRICT LIABILITY, BREACH OF 
+CONTRACT, AND EVEN IF THE OWNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+18. Limitation of Liability
+
+In no event shall CKSource's liability exceed the license fee paid, if any.
+
+19. Governing Law and Venue
+
+This Agreement shall be construed and controlled by the laws of Poland, and You and CKSource further consent to 
+exclusive jurisdiction by the courts of Poland.
+
+END OF AGREEMENT TERMS
+
+"CKSource"
+CKSource Frederico Knabben
+By:
+Name: Frederico Knabben
+Title: CEO
+
+#########################################################
+# Sources of Intellectual Property Included in CKFinder #
+#########################################################
+
+The following libraries are included in CKFinder under the MIT license (see Appendix A):
+========================================================================================
+
+Backbone
+	Copyright (c) 2010-2015 Jeremy Ashkenas, DocumentCloud
+
+doT
+	Copyright (c) 2011 Laura Doktorova
+	Software includes portions from jQote2 Copyright (c) 2010 aefxx,
+	http://aefxx.com/ licensed under the MIT license.
+
+jQuery
+	Copyright 2014 jQuery Foundation and other contributors
+
+jQuery Mobile
+	Copyright 2010, 2014 jQuery Foundation, Inc. and other contributors
+
+Lo-Dash
+	Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>
+	Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,
+	DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+
+MarionetteJS (Backbone.Marionette)
+	Copyright © 2015 Muted Solutions, LLC <derick@mutedsolutions.com>
+
+RequireJS
+	Copyright (c) 2010-2015, The Dojo Foundation
+
+The following libraries are included in CKFinder under the BSD 3-Clause license (see Appendix B):
+=================================================================================================
+
+CamanJS
+	Copyright (c) 2010-2014, Ryan LeFevre
+	All rights reserved.
+
+The following icons are included in CKFinder under the LGPL-3.0 license (see Appendix C):
+=========================================================================================
+
+Oxygen Icons
+	Copyright (c) http://www.kde.org/
+	https://techbase.kde.org/Projects/Oxygen/Licensing
+
+######################################################################
+# Sources of Intellectual Property Included only in CKFinder for PHP #
+######################################################################
+
+The following libraries are included in CKFinder under the MIT license (see Appendix A):
+========================================================================================
+
+Composer
+	Copyright (c) 2011 Nils Adermann, Jordi Boggiano
+
+Dropbox PHP SDK
+	Copyright (c) 2013 Dropbox Inc., http://www.dropbox.com/
+
+Doctrine Common
+	Copyright (c) 2006-2012 Doctrine Project
+
+Flysystem
+	Copyright (c) 2013-2015 Frank de Jonge
+
+Guzzle
+	Copyright (c) 2014 Michael Dowling, https://github.com/mtdowling <mtdowling@gmail.com>
+
+Monolog
+	Copyright (c) 2011-2015 Jordi Boggiano
+
+Pimple
+	Copyright (c) 2009-2015 Fabien Potencier
+
+PSR Log
+	Copyright (c) 2012 PHP Framework Interoperability Group
+
+Symfony
+	Copyright (c) 2004-2015 Fabien Potencier
+
+The following libraries are included in CKFinder under the Apache License (see Appendix D):
+===========================================================================================
+
+AWS SDK for PHP
+	Copyright 2010-2013 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+##############
+# Appendix A #
+##############
+
+The MIT License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+##############
+# Appendix B #
+##############
+
+The BSD 3-Clause license
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+ * Redistributions of source code must retain the above copyright notice, this list of conditions and the following
+   disclaimer.
+ * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following
+   disclaimer in the documentation and/or other materials provided with the distribution.
+ * Neither the name of Ryan LeFevre nor the names of its contributors may be used to endorse or promote products derived
+   from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+##############
+# Appendix C #
+##############
+
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU
+General Public License, supplemented by the additional permissions listed below.
+
+0. Additional Definitions.
+
+As used herein, “this License” refers to version 3 of the GNU Lesser General Public License, and the “GNU GPL” refers
+to version 3 of the GNU General Public License.
+
+“The Library” refers to a covered work governed by this License, other than an Application or a Combined Work as defined
+below.
+
+An “Application” is any work that makes use of an interface provided by the Library, but which is not otherwise based
+on the Library. Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided
+by the Library.
+
+A “Combined Work” is a work produced by combining or linking an Application with the Library. The particular version of
+the Library with which the Combined Work was made is also called the “Linked Version”.
+
+The “Minimal Corresponding Source” for a Combined Work means the Corresponding Source for the Combined Work, excluding
+any source code for portions of the Combined Work that, considered in isolation, are based on the Application,
+and not on the Linked Version.
+
+The “Corresponding Application Code” for a Combined Work means the object code and/or source code for the Application,
+including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding
+the System Libraries of the Combined Work.
+
+1. Exception to Section 3 of the GNU GPL.
+
+You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL.
+
+2. Conveying Modified Versions.
+
+If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied
+by an Application that uses the facility (other than as an argument passed when the facility is invoked),
+then you may convey a copy of the modified version:
+
+ a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not
+    supply the function or data, the facility still operates, and performs whatever part of its purpose remains
+    meaningful, or
+
+ b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy.
+
+3. Object Code Incorporating Material from Library Header Files.
+
+The object code form of an Application may incorporate material from a header file that is part of the Library.
+You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited
+to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates
+(ten or fewer lines in length), you do both of the following:
+
+ a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its
+    use are covered by this License.
+
+ b) Accompany the object code with a copy of the GNU GPL and this license document.
+
+4. Combined Works.
+
+You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification
+of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications,
+if you also do each of the following:
+
+ a) Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and
+    its use are covered by this License.
+
+ b) Accompany the Combined Work with a copy of the GNU GPL and this license document.
+
+ c) For a Combined Work that displays copyright notices during execution, include the copyright notice for the Library
+    among these notices, as well as a reference directing the user to the copies of the GNU GPL and this license document.
+
+ d) Do one of the following:
+
+   0) Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code
+      in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a
+      modified version of the Linked Version to produce a modified Combined Work, in the manner specified by section 6
+      of the GNU GPL for conveying Corresponding Source.
+
+   1) Use a suitable shared library mechanism for linking with the Library. A suitable mechanism is one that (a) uses
+      at run time a copy of the Library already present on the user's computer system, and (b) will operate properly
+      with a modified version of the Library that is interface-compatible with the Linked Version.
+
+ e) Provide Installation Information, but only if you would otherwise be required to provide such information under
+    section 6 of the GNU GPL, and only to the extent that such information is necessary to install and execute a modified
+    version of the Combined Work produced by recombining or relinking the Application with a modified version of the
+    Linked Version. (If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source
+    and Corresponding Application Code. If you use option 4d1, you must provide the Installation Information in the
+    manner specified by section 6 of the GNU GPL for conveying Corresponding Source.)
+
+5. Combined Libraries.
+
+You may place library facilities that are a work based on the Library side by side in a single library together with
+other library facilities that are not Applications and are not covered by this License, and convey such a combined
+library under terms of your choice, if you do both of the following:
+
+ a) Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library
+    facilities, conveyed under the terms of this License.
+
+ b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where
+    to find the accompanying uncombined form of the same work.
+
+6. Revised Versions of the GNU Lesser General Public License.
+
+The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from
+time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address
+new problems or concerns.
+
+Each version is given a distinguishing version number. If the Library as you received it specifies that a certain
+numbered version of the GNU Lesser General Public License “or any later version” applies to it, you have the option of
+following the terms and conditions either of that published version or of any later version published by the
+Free Software Foundation. If the Library as you received it does not specify a version number of the GNU Lesser General
+Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free
+Software Foundation.
+
+If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General
+Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for
+you to choose that version for the Library.
+
+##############
+# Appendix D #
+##############
+
+Apache License
+Version 2.0, January 2004
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through
+9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are
+under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or
+indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of
+fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code,
+documentation source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including
+but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as
+indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work
+and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an
+original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain
+separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or
+additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the
+Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.
+For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent
+to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source
+code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of
+discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in
+writing by the copyright owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received
+by Licensor and subsequently incorporated within the Work.
+
+2. Grant of Copyright License.
+
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of,
+publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License.
+
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have
+made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent
+claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination
+of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation
+against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution
+incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted
+to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution.
+
+You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without
+modifications, and in Source or Object form, provided that You meet the following conditions:
+
+You must give any other recipients of the Work or Derivative Works a copy of this License; and
+
+You must cause any modified files to carry prominent notices stating that You changed the files; and
+
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark,
+and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of
+the Derivative Works; and
+
+If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute
+must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices
+that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text
+file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the
+Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices
+normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License.
+You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the
+NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and
+conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole,
+provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+
+5. Submission of Contributions.
+
+Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the
+ Licensor shall be under the terms and conditions of this License, without any additional terms or conditions.
+ Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may
+ have executed with Licensor regarding such Contributions.
+
+6. Trademarks.
+
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the
+Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the
+content of the NOTICE file.
+
+7. Disclaimer of Warranty.
+
+Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its
+Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including,
+without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work
+and assume any risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability.
+
+In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required
+by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be
+liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character
+arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages
+for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses),
+even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability.
+
+While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of
+support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in
+accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any
+other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability
+incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional
+liability.
+
+END OF TERMS AND CONDITIONS

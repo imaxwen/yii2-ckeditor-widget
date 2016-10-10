@@ -1,14 +1,16 @@
 <?php
 /**
- * Project: yii2-adminlte-rbac.
+ * Project: yii2-ckeditor-widget.
  * User: Max.wen
  * Date: <2016/09/29 - 14:26>
  */
 namespace maxwen\ckeditor;
 
-class CKEditorAsset extends \yii\web\AssetBundle
+use yii\web\AssetBundle;
+
+class CKEditorAsset extends AssetBundle
 {
-	public $sourcePath = '@bower/ckeditor';
+	public $sourcePath = '@vendor/ckeditor/ckeditor';
 
 	public $js = [
 		'ckeditor.js',
