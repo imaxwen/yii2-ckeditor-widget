@@ -61,7 +61,7 @@ use maxwen\ckeditor\CKEditor;
 ```
 Using inline edition with basic preset:
 
-```
+```php
 
 use maxwen\ckeditor\CKEditorInline;
 
