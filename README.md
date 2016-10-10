@@ -3,9 +3,7 @@ CKEditor widget for yii2, with ckfinder integrated
 This repo was forked from [2amigos/yii2-ckeditor-widget](https://github.com/2amigos/yii2-ckeditor-widget).    
 I made some customization and most impotant: with ckfinder integrated.
 
-
 ## Installation
-
 ```
 composer require maxwen/yii2-ckeditor-widget
 ```
@@ -127,6 +125,10 @@ $this->registerJs("CKEDITOR.plugins.addExternal('pbckcode', '/pbckcode/plugin.js
 </p>
 <?php CKEditorInline::end() ?>
 ```
+
+About CKFinder
+--------------
+[CKFinder](https://cksource.com/ckfinder) is a commercial software, this repo just contains a demo version, you can [purchase the full version here](https://cksource.com/ckfinder/buy).
 
 
 Further Information
