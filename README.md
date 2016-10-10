@@ -13,7 +13,7 @@ composer require maxwen/yii2-ckeditor-widget
 
 Inorder to add your custom configure,   
 you need to add an controllerMap to you config/main.php:
-```
+```php
 'controllerMap' => [
 	'ckeditor' => [
 		'class'    => 'maxwen\ckeditor\controllers\EditorController',
@@ -25,7 +25,7 @@ you need to add an controllerMap to you config/main.php:
 Then add you custom configure into params.php:
 see [CKEditor.config](http://docs.ckeditor.com/#!/api/CKEDITOR.config)
 
-```
+```php
  // CKEditor config rewrite
 'ckeditorConfig' => [
 		// custom options
@@ -46,7 +46,7 @@ editing respectively.
 
 Using a model with a basic preset:
 
-```
+```php
 
 use maxwen\ckeditor\CKEditor;
 
@@ -63,7 +63,7 @@ Using inline edition with basic preset:
 
 ```
 
-use dosamigos\ckeditor\CKEditorInline;
+use maxwen\ckeditor\CKEditorInline;
 
 <?php CKEditorInline::begin([
 	'editorConfig' => [
@@ -99,14 +99,14 @@ widget. No more talking, here is the code:
 ```php 
 <?php
  
-use dosamigos\ckeditor\CKEditorInline;
+use maxwen\ckeditor\CKEditorInline;
 
 // First we need to tell CKEDITOR variable where is our external plufin 
 $this->registerJs("CKEDITOR.plugins.addExternal('pbckcode', '/pbckcode/plugin.js', '');");
 
 // ... 
 // Using the plugin
-<?php CKEditorInline::begin(['preset' => 'custom', 'clientOptions' => [
+<?php CKEditorInline::begin(['editorConfig' => [
     'extraPlugins' => 'pbckcode',
     'toolbarGroups' => [
         ['name' => 'undo'],
