@@ -1,7 +1,7 @@
 # yii2-ckeditor-widget
 CKEditor widget for yii2, with ckfinder integrated   
 This repo was forked from [2amigos/yii2-ckeditor-widget](https://github.com/2amigos/yii2-ckeditor-widget).    
-I made some customization and most impotant: with ckfinder integrated.
+I made some customization and most important: with ckfinder integrated.
 
 ## Installation
 ```
@@ -22,11 +22,11 @@ you need to add an controllerMap to you config/main.php:
 ]
 ```
 
-Then add you custom configure into params.php:
+Then add your custom configures into config/params.php:
 see [CKEditor.config](http://docs.ckeditor.com/#!/api/CKEDITOR.config)
 
 ```php
- // CKEditor config rewrite
+ // CKEditor.config rewrite
 'ckeditorConfig' => [
 		// custom options
 		'language'   => 'en',
