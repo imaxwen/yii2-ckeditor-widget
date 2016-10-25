@@ -25,7 +25,7 @@
 CKEDITOR.plugins.add( 'video',
 {
 	// Translations, available at the end of this file, without extra requests
-	lang : [ 'en', 'es' ],
+	lang : [ 'en', 'es', 'zh-cn' ],
 
 	getPlaceholderCss : function()
 	{
@@ -182,6 +182,20 @@ var en = {
 		fallbackTemplate : 'Your browser doesn\'t support video.<br>Please download the file: %links%'
 	};
 
+var zhCn = {
+        toolbar	: '视频',
+        dialogTitle : '视频属性',
+        fakeObject : '视频',
+        properties : '编辑视频',
+        widthRequired : '宽度不能为空',
+        heightRequired : '高度不能为空',
+        poster: '视频预览图',
+        sourceVideo: '视频地址',
+        sourceType : '视频类型',
+        linkTemplate :  '<a href="%src%">%type%</a> ',
+        fallbackTemplate : '您的浏览器不支持视频播放.<br>请下载后观看: %links%'
+    };
+
 var es = {
 		toolbar	: 'Video',
 		dialogTitle : 'Propiedades de video',
@@ -207,5 +221,7 @@ var es = {
 CKEDITOR.plugins.setLang( 'video', 'en', en );
 
 CKEDITOR.plugins.setLang( 'video', 'es', es );
+
+CKEDITOR.plugins.setLang( 'video', 'zh-cn', zhCn );
 
 })();

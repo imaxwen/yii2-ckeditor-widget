@@ -182,6 +182,20 @@ var en = {
 		fallbackTemplate : 'Your browser doesn\'t support audio.<br>Please download the file: %links%'
 	};
 
+var zhCn = {
+        toolbar	: '音频',
+        dialogTitle : '音频属性',
+        fakeObject : '音频',
+        properties : '编辑音频',
+        widthRequired : '宽度不能为空',
+        heightRequired : '高度不能为空',
+        poster: '音频预览图',
+        sourceVideo: '音频地址',
+        sourceType : '音频类型',
+        linkTemplate :  '<a href="%src%">%type%</a> ',
+        fallbackTemplate : '您的浏览器不支持音频播放.<br>请下载后观看: %links%'
+    };
+
 var es = {
 		toolbar	: 'Audio',
 		dialogTitle : 'Propiedades de audio',
@@ -207,5 +221,7 @@ var es = {
 CKEDITOR.plugins.setLang( 'audio', 'en', en );
 
 CKEDITOR.plugins.setLang( 'audio', 'es', es );
+
+CKEDITOR.plugins.setLang( 'audio', 'zh-cn', zhCn );
 
 })();

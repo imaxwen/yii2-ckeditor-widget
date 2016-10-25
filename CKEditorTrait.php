@@ -37,7 +37,7 @@ trait CKEditorTrait
 
 		if($this->enableElFinder && class_exists('\mihaildev\elfinder\ElFinder')) {
 			$this->editorConfig = yii\helpers\ArrayHelper::merge(
-				\mihaildev\elfinder\ElFinder::ckeditorOptions(['elfinder' , 'language' => 'zh-CN']),
+				\mihaildev\elfinder\ElFinder::ckeditorOptions('elfinder'),
 				$this->editorConfig
 			);
 		}
