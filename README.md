@@ -63,7 +63,7 @@ Using inline edition with basic preset:
 
 ```
 
-use dosamigos\ckeditor\CKEditorInline;
+use maxwen\ckeditor\CKEditorInline;
 
 <?php CKEditorInline::begin([
 	'editorConfig' => [
@@ -99,7 +99,7 @@ widget. No more talking, here is the code:
 ```php 
 <?php
  
-use dosamigos\ckeditor\CKEditorInline;
+use maxwen\ckeditor\CKEditorInline;
 
 // First we need to tell CKEDITOR variable where is our external plufin 
 $this->registerJs("CKEDITOR.plugins.addExternal('pbckcode', '/pbckcode/plugin.js', '');");
