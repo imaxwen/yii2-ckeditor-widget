@@ -14,9 +14,12 @@
 		"ckeditor/ckeditor": "dev-full/4.6.x",
 		"bower-asset/jquery-cookie":"~1.4.1"
 	},
+	"suggest": {
+		"studio-42/elfinder": "open source web file manager."
+	},
 	"autoload": {
 		"psr-4": {
-			"maxwen\\ckeditor\\": ""
+			"maxwen\\ckeditor\\": "src"
 		}
 	}
 }
