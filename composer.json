@@ -11,7 +11,7 @@
     ],
 	"require": {
 		"yiisoft/yii2": "~2.0.0",
-		"ckeditor/ckeditor": "dev-full/4.5.x",
+		"ckeditor/ckeditor": "dev-full/4.6.x",
 		"bower-asset/jquery-cookie":"~1.4.1"
 	},
 	"autoload": {
