@@ -16,7 +16,7 @@ use yii\web\AssetBundle;
  */
 class CKEditorWidgetAsset extends AssetBundle
 {
-	public $sourcePath = '@vendor/maxwen/yii2-ckeditor-widget/assets';
+	public $sourcePath = '@vendor/maxwen/yii2-ckeditor-widget/src/assets';
 
 	public $js = [
 		'dosamigos-ckeditor.widget.js'
