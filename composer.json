@@ -9,10 +9,13 @@
             "email": "max.wen@qq.com"
         }
     ],
+    "minimum-stability": "dev",
 	"require": {
 		"yiisoft/yii2": "~2.0.0",
-		"ckeditor/ckeditor": "dev-full/latest",
 		"bower-asset/jquery-cookie":"~1.4.1"
+	},
+	"require-dev": {
+		"ckeditor/ckeditor": "dev-full/4.6.x"
 	},
 	"suggest": {
 		"studio-42/elfinder": "open source web file manager."
